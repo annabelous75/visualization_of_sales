@@ -1,7 +1,7 @@
 # Regional Sales Dashboard (Power BI)
 
-This project is an interactive dashboard for analyzing regional sales performance.  
-📊 An analyst only sees their own region (implemented through Row-Level Security in Power BI).
+This project is an interactive dashboard for analyzing regional sales performance.
+📊 Analysts with the Innsbruck role can only see sales data for that region (implemented through Row-Level Security in Power BI). Managers, on the other hand, have access to all regions.
 
 ## How to Open
 1. Download `visualization_of_sales.pbix`.
