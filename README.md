@@ -9,7 +9,7 @@ This project is an interactive dashboard for analyzing regional sales performanc
 3. Log in as **Analyst** → you will only see data for your assigned region.
 
 ## Screenshots
-![Dashboard](main.png)
+![Dashboard](main.jpg)
 
 ## Technologies
 - Power BI  
