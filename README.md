@@ -7,6 +7,7 @@ This project is an interactive dashboard for analyzing regional sales performanc
 1. Download `visualization_of_sales.pbix`.
 2. Open it in Power BI Desktop.
 3. Log in as **Analyst** → you will only see data for your assigned region.
+4. Log in as **Manager** → you will see data in all rigions
 
 ## Screenshots
 ![Dashboard](main.jpg)
